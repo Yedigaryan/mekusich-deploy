@@ -1,0 +1,14 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+:HL["/_next/static/chunks/3d657509f740a969.css","style"]
+:HL["/_next/static/media/0632d2c19ff44cbe-s.p.ff2a2d10.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2dfa23f74893c739-s.p.3ca22f0f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c3a7e34b0535193-s.p.2a713802.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4bbee4715c9988bf-s.p.646a3374.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/effe91970fc4db64-s.p.19510058.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"OmpIPWmi_M-TiwivwRew7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Mekusich — Էլեկտրամոնտաժային աշխատանքներ"}],["$","meta","1",{"name":"description","content":"Մասնագիտական էլեկտրամոնտաժային և էլեկտրատեղադրման ծառայություններ։ Ապահովում ենք անվտանգ, հուսալի և ստանդարտներին համապատասխան էլեկտրական համակարգեր ձեր օբյեկտի համար."}],["$","meta","2",{"name":"keywords","content":"էլեկտրամոնտաժային աշխատանքներ,էլեկտրատեղադրում,բաշխիչ վահանակներ,էլեկտրական անվտանգություն,էլեկտրիկի ծառայություններ"}],["$","meta","3",{"property":"og:title","content":"Mekusich — Էլեկտրամոնտաժային աշխատանքներ"}],["$","meta","4",{"property":"og:description","content":"Մասնագիտական էլեկտրամոնտաժային և էլեկտրատեղադրման ծառայություններ."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Mekusich — Էլեկտրամոնտաժային աշխատանքներ"}],["$","meta","8",{"name":"twitter:description","content":"Մասնագիտական էլեկտրամոնտաժային և էլեկտրատեղադրման ծառայություններ."}]]
