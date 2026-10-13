@@ -2,6 +2,9 @@
   RewriteEngine On
   RewriteBase /
 
+  # Document root is the git clone: never serve repo internals
+  RewriteRule ^(\.git(/|$)|\.cpanel\.yml$) - [F,L]
+
   # --- Exclude internal static folders and obvious files from rewrites ---
   # Don't rewrite requests for Next static assets, images, or API routes
   RewriteCond %{REQUEST_URI} ^/(_next|static|images|assets|favicon\.ico|robots\.txt) [NC]
